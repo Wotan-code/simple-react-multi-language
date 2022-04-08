@@ -1,0 +1,11 @@
+{
+    "title": "Eine einfache Möglichkeit, die Sprache einer Webseite mit React ohne Bibliotheken zu ändern",
+    "line1": "Hallo, mein Name ist Santiago Amaro, schön dich kennenzulernen, ich hoffe, dass dieses Beispiel für Sie nützlich sein kann",
+    "selectLanguage": "Wähle eine Sprache",
+    "spanish": "Spanisch",
+    "english": "Englisch",
+    "italian": "Italienisch",
+    "german": "Deutsch",
+    "japanese": "Japanisch",
+    "visit": "Besuchen Sie meine Webseite:"
+}

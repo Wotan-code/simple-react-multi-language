@@ -1,0 +1,11 @@
+{
+    "title": "Un modo semplice per cambiare la lingua di una pagina web con React senza librerie",
+    "line1": "Ciao mi chiamo Santiago Amaro, piacere di conoscerti, Spero che questo esempio ti sia utile",
+    "selectLanguage": "Seleziona la lingua",
+    "spanish": "Spagnolo",
+    "english": "Inglese",
+    "italian": "Italiano",
+    "german": "Tedesco",
+    "japanese": "Giapponese",
+    "visit:": "Visita il mio sito web:"
+}
