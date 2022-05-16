@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-multi-language/static/css/main.01541f81.css",
+    "main.js": "/simple-react-multi-language/static/js/main.3315c213.js",
+    "index.html": "/simple-react-multi-language/index.html",
+    "main.01541f81.css.map": "/simple-react-multi-language/static/css/main.01541f81.css.map",
+    "main.3315c213.js.map": "/simple-react-multi-language/static/js/main.3315c213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01541f81.css",
+    "static/js/main.3315c213.js"
+  ]
+}
