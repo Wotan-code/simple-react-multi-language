@@ -1,14 +1,17 @@
 html {
   width: 100%;
   height: 100vh;
-  animation: gradient 4s infinite alternate linear;
-  background: hsl(0, 0%, 28%);
+  background: hsl(0, 0%, 0%);
 }
 
 @keyframes gradient {
   100% {
     background: hsl(0, 0%, 0%);
   }
+}
+
+a{
+  color:#989fff;
 }
 
 .language-tester {
